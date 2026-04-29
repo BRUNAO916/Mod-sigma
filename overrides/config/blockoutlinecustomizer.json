@@ -1,0 +1,16 @@
+{
+  "outlineRed": 255,
+  "outlineGreen": 255,
+  "outlineBlue": 255,
+  "outlineOpacity": 1.0,
+  "outlineWidth": 3.0,
+  "outlineRgbEnabled": true,
+  "outlineRgbSpeed": 1.0,
+  "fillEnabled": false,
+  "fillRed": 255,
+  "fillGreen": 255,
+  "fillBlue": 255,
+  "fillOpacity": 0.3,
+  "fillRgbEnabled": false,
+  "fillRgbSpeed": 1.0
+}
